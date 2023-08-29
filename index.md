@@ -1,4 +1,3 @@
-theme: tactile
 ## Welcome to GitHub Pages
 
 # Pedro Ventura's First CS 193 Homeowork
